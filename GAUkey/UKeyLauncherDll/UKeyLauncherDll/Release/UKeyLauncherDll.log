@@ -1,0 +1,68 @@
+﻿  stdafx.cpp
+  CBaseSocket.cpp
+  CTcpSocket.cpp
+  parsexml.cpp
+  UKeyLauncherDll.cpp
+UKeyLauncherDll.cpp(337): warning C4172: 返回局部变量或临时变量的地址
+  正在生成代码...
+  dllmain.cpp
+  wtcplugin_i.c
+libcpmt.lib(xthrow.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(syserror.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(xlock.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(uncaught.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(xlocale.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(locale0.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(ios.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(fiopen.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(iomanip.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(xdateord.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(locale.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(iosptrs.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(winapisupp.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(winapinls.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(wlocale.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项:  值“1900”不匹配值“1800”(CBaseSocket.obj 中)
+     正在创建库 E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\UKeyLauncherDll\Release\UKeyLauncherDll.lib 和对象 E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\UKeyLauncherDll\Release\UKeyLauncherDll.exp
+stdafx.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+UKeyLauncherDll.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+json.lib(json_value.obj) : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+CBaseSocket.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+CTcpSocket.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+dllmain.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+parsexml.obj : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(xthrow.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(ios.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+libcpmt.lib(xthrow.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+libcpmt.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+libcpmt.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+libcpmt.lib(xthrow.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+libcpmt.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+libcpmt.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+libcpmt.lib(xlock.obj) : error LNK2001: 无法解析的外部符号 __lock_locales
+libcpmt.lib(xlock.obj) : error LNK2001: 无法解析的外部符号 __unlock_locales
+libcpmt.lib(uncaught.obj) : error LNK2001: 无法解析的外部符号 ___uncaught_exception
+libcpmt.lib(uncaught.obj) : error LNK2001: 无法解析的外部符号 ___uncaught_exceptions
+libcpmt.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 ___stdio_common_vsprintf_s
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 ___stdio_common_vsprintf_s
+libcpmt.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 ___stdio_common_vsprintf_s
+libcpmt.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 __calloc_base
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 ___std_terminate
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __malloc_base
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_base
+libcpmt.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_base
+libcpmt.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __malloc_base
+libcpmt.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __realloc_base
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __free_base
+libcpmt.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __free_base
+libcpmt.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __free_base
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\UKeyLauncherDll\Release\UKeyLauncherDll.dll : fatal error LNK1120: 14 个无法解析的外部命令

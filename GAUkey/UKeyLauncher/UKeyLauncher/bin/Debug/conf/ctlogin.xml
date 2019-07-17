@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ccs>
+    <cc>172.20.151.166</cc>
+  </ccs>
+  <cbs>
+    <cb>198.29.180.249</cb>
+    <cb>198.29.180.248</cb>
+  </cbs>
+  <drivers>
+    <driver>O</driver>
+    <driver>P</driver>
+    <driver>Q</driver>
+    <driver>R</driver>
+    <driver>S</driver>
+    <driver>T</driver>
+    <driver>U</driver>
+    <driver>V</driver>
+    <driver>W</driver>
+    <driver>X</driver>
+    <driver>Y</driver>
+    <driver>Z</driver>
+  </drivers>
+  <disks>
+    <mountdisk>1</mountdisk>
+  </disks>
+  <masterpage>
+    <openmasterpage>1</openmasterpage>
+  </masterpage>
+  <VideoRedirect>
+    <OpenState>0</OpenState>
+  </VideoRedirect>
+</root>

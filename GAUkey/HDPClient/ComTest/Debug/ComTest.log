@@ -1,0 +1,55 @@
+﻿生成启动时间为 2017/6/30 10:46:43。
+     1>项目“D:\service\ComTest\ComTest\ComTest.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ID:\service\ComTest\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ComTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2013\VC\bin\CL.exe /c /ID:\service\ComTest\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComTest.cpp
+         ComTest.cpp
+         D:\VS2013\VC\bin\CL.exe /c /ID:\service\ComTest\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt wtcplugin_i.c
+         wtcplugin_i.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\ComTest.res" ComTest.rc 
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\service\ComTest\Debug\ComTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\service\ComTest\lib json.lib libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\service\ComTest\Debug\ComTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\service\ComTest\Debug\ComTest.lib" /MACHINE:X86 Debug\ComTest.res
+         Debug\ComTest.obj
+         Debug\stdafx.obj
+         Debug\wtcplugin_i.obj
+         json.lib(json_value.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+     1>ComTest.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+     1>json.lib(json_value.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>json.lib(json_value.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>json.lib(json_reader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>json.lib(json_reader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>json.lib(json_writer.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>json.lib(json_writer.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(ios.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(ios.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(locale0.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(locale0.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(iosptrs.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(iosptrs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(locale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(locale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(xlock.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(xlock.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(xthrow.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(xthrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(wlocale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(wlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(xlocale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(xlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>libcpmt.lib(xdateord.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“0”不匹配值“2”(ComTest.obj 中)
+     1>libcpmt.lib(xdateord.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MT_StaticRelease”不匹配值“MDd_DynamicDebug”(ComTest.obj 中)
+     1>LIBCMT.lib(crt0init.obj) : error LNK2005: ___xi_a 已经在 MSVCRTD.lib(cinitexe.obj) 中定义
+     1>LIBCMT.lib(crt0init.obj) : error LNK2005: ___xi_z 已经在 MSVCRTD.lib(cinitexe.obj) 中定义
+     1>LIBCMT.lib(crt0init.obj) : error LNK2005: ___xc_a 已经在 MSVCRTD.lib(cinitexe.obj) 中定义
+     1>LIBCMT.lib(crt0init.obj) : error LNK2005: ___xc_z 已经在 MSVCRTD.lib(cinitexe.obj) 中定义
+     1>LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+     1>LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+     1>D:\service\ComTest\Debug\ComTest.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“D:\service\ComTest\ComTest\ComTest.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.77

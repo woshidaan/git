@@ -1,0 +1,48 @@
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Release\callsafebox.exe
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Release\callsafebox.pdb
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Release\callsafebox.exe
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+C:\Users\涂山我罩的\Desktop\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+C:\Users\涂山我罩的\Desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+C:\Users\涂山我罩的\Desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.exe
+C:\Users\涂山我罩的\Desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+E:\desktop\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+E:\desktop\callsafebox\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+E:\desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+E:\desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.exe
+E:\desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+E:\desktop\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe
+E:\desktop\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.pdb
+E:\desktop\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csprojResolveAssemblyReference.cache
+C:\Users\涂山我罩的\Documents\Tencent Files\294728633\FileRecv\GA锁屏\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+C:\Users\涂山我罩的\Documents\Tencent Files\294728633\FileRecv\GA锁屏\callsafebox\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+C:\Users\涂山我罩的\Documents\Tencent Files\294728633\FileRecv\GA锁屏\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+C:\Users\涂山我罩的\Documents\Tencent Files\294728633\FileRecv\GA锁屏\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.exe
+C:\Users\涂山我罩的\Documents\Tencent Files\294728633\FileRecv\GA锁屏\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.exe
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.pdb
+D:\GA锁屏\ga\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csprojResolveAssemblyReference.cache
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\obj\Release\callsafebox.exe
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\obj\Release\callsafebox.pdb
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\bin\Release\callsafebox.exe
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\bin\Release\callsafebox.pdb
+D:\GA锁屏\ga\callsafebox_win7\callsafebox\callsafebox\obj\Release\callsafebox.csprojResolveAssemblyReference.cache
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe.config
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\obj\Release\Interop.SECUMAILLib.dll
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csproj.ResolveComReference.cache
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.exe
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\bin\Release\callsafebox.pdb
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.csprojResolveAssemblyReference.cache
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.exe
+E:\桌面\COS\gaUkey\gaUkey\实验室国安格尔集成\callsafebox\callsafebox\callsafebox\obj\Release\callsafebox.pdb

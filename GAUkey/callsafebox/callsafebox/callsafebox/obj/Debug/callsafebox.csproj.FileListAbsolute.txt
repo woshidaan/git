@@ -1,0 +1,8 @@
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Debug\callsafebox.exe.config
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Debug\callsafebox.exe
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\bin\Debug\callsafebox.pdb
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Debug\callsafebox.csprojResolveAssemblyReference.cache
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Debug\Interop.SECUMAILLib.dll
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Debug\callsafebox.csproj.ResolveComReference.cache
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Debug\callsafebox.exe
+C:\Users\gwq\Desktop\gatest\callsafebox\callsafebox\obj\Debug\callsafebox.pdb

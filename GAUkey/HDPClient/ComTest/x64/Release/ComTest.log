@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/4/11 15:03:03。
+     1>项目“C:\Users\gwq\Desktop\ComTest\ComTest\ComTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\ComTest.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ComTest.cpp
+         ComTest.cpp
+     1>ComTest.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>ComTest.cpp(406): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TC /errorReport:prompt wtcplugin_i.c
+         wtcplugin_i.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"x64\Release\ComTest.res" ComTest.rc 
+       Link:
+         D:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gwq\Desktop\ComTest\x64\Release\ComTest.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib json.lib setupapi.lib libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\gwq\Desktop\ComTest\x64\Release\ComTest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gwq\Desktop\ComTest\x64\Release\ComTest.lib" /MACHINE:X64 /NODEFAULTLIB:msvcrt.lib x64\Release\ComTest.res
+         x64\Release\ComTest.obj
+         x64\Release\stdafx.obj
+         x64\Release\wtcplugin_i.obj
+     1>LINK : fatal error C1905: 前端和后端不兼容(必须以同一处理器为目标)。
+     1>LINK : fatal error LNK1257: 代码生成失败
+     1>已完成生成项目“C:\Users\gwq\Desktop\ComTest\ComTest\ComTest.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.83
